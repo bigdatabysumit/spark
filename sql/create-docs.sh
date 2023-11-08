@@ -39,7 +39,7 @@ fi
 
 pushd "$FWDIR" > /dev/null
 
-rm -fr docs
+rm -r docs
 mkdir docs
 
 echo "Generating SQL API Markdown files."

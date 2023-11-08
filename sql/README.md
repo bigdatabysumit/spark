@@ -1,7 +1,7 @@
-Spark SQL
+Spark SQL 
 =========
 
-This module provides support for executing relational queries expressed in either SQL or the DataFrame/Dataset API.
+This module provides support for executing relational queries expressed in either SQL or the DataFrame API.
 
 Spark SQL is broken up into four subprojects:
  - Catalyst (sql/catalyst) - An implementation-agnostic framework for manipulating trees of relational operators and expressions.
